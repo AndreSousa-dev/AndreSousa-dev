@@ -14,4 +14,4 @@ Web Frontend Development
 Email
 andresousa.dev@outlook.pt
 Linkedin
-https://www.linkedin.com/in/andr%C3%A9-sousa-038a56294/
+www.linkedin.com/in/andresousadev
